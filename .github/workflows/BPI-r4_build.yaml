@@ -5,7 +5,7 @@ on:
 
 env:
   REMOTE_REPOSITORY: rmandrad/openwrt
-  REMOTE_BRANCH: main
+  REMOTE_BRANCH: bananapi4
   CONFIG_FILE: bpi-r4-mda.config
   CUSTOM_FILES_PATH: files/
   RELEASE_PREFIX: Mediatek_mt7988a_bpi-r4
